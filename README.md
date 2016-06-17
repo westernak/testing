@@ -1,2 +1,2 @@
-# testing
-Harjoittelu repository ei sen kummempaa
+# Demorepository
+Demoilu repository mahdollisia palavereja ajatellen.
